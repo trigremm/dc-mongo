@@ -1,3 +1,6 @@
-docker_volumes/
-backups/
+.docker_volumes/
+
 .env
+.idea/
+.vscode/
+.DS_Store
